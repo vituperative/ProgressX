@@ -7,6 +7,6 @@ A wonderful and automatic page load progress bar.
 * Perfect for single-page applications
 * Responsive
 
-Check out [demo & usages](http://ryadpasha.github.io/progressx).
+Check out [demo & usages](http://ryadpasha.github.io/ProgressX).
 
 MIT license. Copyright 2018 Ryad Pasha.
